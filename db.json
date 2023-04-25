@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "id": "fad36cc6-f4e4-46cb-88ad-7aca131c861b",
+      "title": "Petit dej",
+      "body": "je dois dejeuner avec lequipe"
+    },
+    {
+      "id": "19f795fe-fe7d-4b0e-abb2-044523327961",
+      "title": "First Post",
+      "body": "je dois dejeuner avec lequipe"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
